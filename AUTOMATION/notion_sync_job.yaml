@@ -1,0 +1,15 @@
+name: notion-sync
+schedule: "0 6 * * 1-5"
+actions:
+  - name: pull-notes
+    uses: notion/api@v1
+    with:
+      database_id: ${{ secrets.NOTION_DB_ID }}
+      filter: status != "completed"
+  - name: update-markdown
+    uses: finomi/markdown-sync@v1
+    with:
+      tasks_directory: TASKS
+      commit: false
+notifications:
+  slack_channel: finomi-delivery
