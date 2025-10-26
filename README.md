@@ -34,16 +34,22 @@ project_management/
 │   ├── PHASE_4_ENHANCED.md
 │   ├── PHASE_5_LAUNCH.md
 │   └── DETAILS/
-│       └── FND-001.md
+│       ├── FND-001.md … FND-012.md
+│       ├── COR-001.md … COR-009.md
+│       ├── QLT-001.md … QLT-006.md
+│       ├── ENH-001.md … ENH-005.md
+│       └── LCH-001.md … LCH-005.md
 ├── REPORTS/
 │   ├── WEEKLY_SUMMARY_TEMPLATE.md
 │   ├── QA_REPORT_TEMPLATE.md
 │   ├── SECURITY_AUDIT_TEMPLATE.md
 │   └── PERFORMANCE_METRICS.md
-└── AUTOMATION/
-    ├── codex_playbook.md
-    ├── notion_sync_job.yaml
-    └── github_actions_pipeline.yaml
+├── AUTOMATION/
+│   ├── codex_playbook.md
+│   ├── notion_sync_job.yaml
+│   └── github_actions_pipeline.yaml
+└── scripts/
+    └── validate_tasks.py
 ```
 
 ## Core Workflow

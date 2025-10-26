@@ -1,27 +1,22 @@
 # Finomi Delivery Dashboard
 
-_Automatically maintained reference for the Finomi program. Last updated: <!-- TODO: update manually when editing -->._
+_Automatically maintained reference for the Finomi program. Last updated: 2025-10-26 (UTC)._ 
 
 ## 📊 Phase Health Snapshot
 
 | Phase | Total Tasks | Ready | In Progress | Completed | Blocked | Notes |
 |---|---|---|---|---|---|---|
-| Phase 1 — Foundation | 12 | 2 | 0 | 0 | 0 | Focus on enabling the development foundation and environment setup. |
-| Phase 2 — Core | 0 | 0 | 0 | 0 | 0 | Awaiting task breakdown (template placeholder ignored). |
-| Phase 3 — Quality | 0 | 0 | 0 | 0 | 0 | Awaiting task breakdown (template placeholder ignored). |
-| Phase 4 — Enhanced | 0 | 0 | 0 | 0 | 0 | Awaiting task breakdown (template placeholder ignored). |
-| Phase 5 — Launch | 0 | 0 | 0 | 0 | 0 | Awaiting task breakdown (template placeholder ignored). |
+| Phase 1 — Foundation | 12 | 0 | 0 | 0 | 0 | Environment, auth, and database enablement work to unblock the rest of the program. |
+| Phase 2 — Core | 9 | 0 | 0 | 0 | 0 | Core product experiences including transactions, notifications, and portfolio management. |
+| Phase 3 — Quality | 6 | 0 | 0 | 0 | 0 | Quality gates covering strict typing, automated tests, and CI/CD. |
+| Phase 4 — Enhanced | 5 | 0 | 0 | 0 | 0 | Value-add experiences such as analytics, document handling, and personalisation. |
+| Phase 5 — Launch | 5 | 0 | 0 | 0 | 0 | Launch readiness around compliance, infrastructure, and store submissions. |
 
 > ℹ️ Update counts whenever a board changes to keep this dashboard accurate.
 
 ## 🚦 Ready & In-Progress Tasks
 
-These are the tasks that can start immediately or are already underway. They should receive prioritised attention before pulling new work from the backlog.
-
-| Phase | TASK_ID | Title | Status | Priority | Assignee | Detail |
-|---|---|---|---|---|---|---|
-| Foundation | FND-002 | Auth token interceptor | ready | high | - | [FND-002](TASKS/DETAILS/FND-002.md) |
-| Foundation | FND-007 | DB + migrations | ready | high | - | [FND-007](TASKS/DETAILS/FND-007.md) |
+_No tasks are currently in `ready` or `in-progress`. Prioritise assigning Phase 1 foundation work before pulling from later phases._
 
 ## 📥 Backlog Depth
 
@@ -29,11 +24,11 @@ Backlog shows remaining effort per status so PMs can understand load and unblock
 
 | Status | Count | Notes |
 |---|---|---|
-| not-started | 10 | Core foundation tasks waiting for assignment. |
-| ready | 2 | Prioritise to accelerate environment readiness. |
-| in-progress | 0 | No active builds — ready tasks can be picked up immediately. |
-| completed | 0 | No tasks completed yet. |
-| blocked | 0 | No known blockers reported. |
+| not-started | 37 | All planned work awaits assignment. |
+| ready | 0 | — |
+| in-progress | 0 | — |
+| completed | 0 | — |
+| blocked | 0 | — |
 
 ## 🔗 Quick Links
 
