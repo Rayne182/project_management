@@ -7,6 +7,9 @@ The **Finomi Project Management** repository is the single source of truth for t
 - Keep cross-repository documentation synchronized across `finomi-app-ts`, `Finomi.App.Api`, and `project_management`.
 - Maintain centralized specifications, reports, and automation playbooks for the Finomi program.
 
+## Quick Dashboard
+- Review the live delivery snapshot in the [Finomi Delivery Dashboard](dashboard.md) for status counts and ready-to-start work.
+
 ## Repository Layout
 ```
 project_management/
