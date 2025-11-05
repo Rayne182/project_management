@@ -13,3 +13,4 @@
 | COR-009 | Multi-Portfolio Support | ready | medium | - | FE/BE | - | - | [COR-009](./DETAILS/COR-009.md) |
 
 _Status values: not-started, ready, in-progress, completed, blocked._
+
