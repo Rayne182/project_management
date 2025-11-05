@@ -6,8 +6,8 @@ Automatically maintained reference for the Finomi program. Last updated: 2025-11
 
 | Phase | Total Tasks | Ready | In Progress | Completed | Blocked | Notes |
 |---|---|---|---|---|---|---|
-| Phase 1 - Foundation | 12 | 5 | 3 | 1 | 0 | Environment, auth, and database enablement work to unblock the rest of the program. |
-| Phase 2 - Core | 9 | 7 | 3 | 0 | 0 | Core product experiences including transactions, notifications, and portfolio management. |
+| Phase 1 - Foundation | 12 | 0 | 6 | 0 | 0 | Environment, auth, and database enablement work to unblock the rest of the program. |
+| Phase 2 - Core | 9 | 5 | 4 | 0 | 0 | Core product experiences including transactions, notifications, and portfolio management. |
 | Phase 3 - Quality | 6 | 0 | 0 | 0 | 0 | Quality gates covering strict typing, automated tests, and CI/CD. |
 | Phase 4 - Enhanced | 5 | 0 | 0 | 0 | 0 | Value-add experiences such as analytics, document handling, and personalisation. |
 | Phase 5 - Launch | 5 | 0 | 0 | 0 | 0 | Launch readiness around compliance, infrastructure, and store submissions. |
@@ -28,10 +28,10 @@ Automatically maintained reference for the Finomi program. Last updated: 2025-11
 
 | Status | Count | Notes |
 |---|---|---|
-| not-started | 18 | Remaining work across Phases 1, 3, 4, 5. |
-| ready | 12 | Updated as tasks are claimed. |
-| in-progress | 9 | Phase 1 and 2 tasks executing. |
-| completed | 1 | FND-007 complete. |
+| not-started | 22 | Remaining work across Phases 1, 3, 4, 5. |
+| ready | 5 | Phase 2 items pending. |
+| in-progress | 10 | Phase 1 and 2 tasks executing. |
+| completed | 0 | None completed currently. |
 | blocked | 0 | None. |
 
 ## Quick Links
