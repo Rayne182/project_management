@@ -2,7 +2,7 @@
 
 | TASK_ID | Title | Status | Priority | Assignee | Repo | PR | Commit | Detail |
 |---|---|---|---|---|---|---|---|---|
-| FND-001 | Environment-Based API Configuration | in-progress | high | ai-agent | FE | - | - | [FND-001](./DETAILS/FND-001.md) |
+| FND-001 | Environment-Based API Configuration | in-progress | high | ai-agent | FE | - | finomi-app-ts@748eabc, project_management@6e49541 | [FND-001](./DETAILS/FND-001.md) |
 | FND-002 | Authentication Token Integration | ready | high | - | FE | - | - | [FND-002](./DETAILS/FND-002.md) |
 | FND-003 | Authentication Context Provider | ready | high | - | FE | - | - | [FND-003](./DETAILS/FND-003.md) |
 | FND-004 | Remove Hard-Coded User Data | ready | medium | - | FE | - | - | [FND-004](./DETAILS/FND-004.md) |
