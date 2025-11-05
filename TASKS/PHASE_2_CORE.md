@@ -3,7 +3,7 @@
 | TASK_ID | Title | Status | Priority | Assignee | Repo | PR | Commit | Detail |
 |---|---|---|---|---|---|---|---|---|
 | COR-001 | Implement Transaction Endpoints | in-progress | high | ai-agent | BE | [BE PR](https://github.com/Rayne182/Finomi.App.Api/pull/new/feat/cor-001-transactions-impl) |
-| COR-002 | Deposit and Withdrawal Flow | in-progress | high | ai-agent | FE | [FE PR](https://github.com/Rayne182/finomi-app-ts/pull/new/feat/cor-002-deposit-withdrawal) | finomi-app-ts@a7f7244 | [COR-002](./DETAILS/COR-002.md) |
+| COR-002 | Deposit and Withdrawal Flow | in-progress | high | ai-agent | FE | [FE PR](https://github.com/Rayne182/finomi-app-ts/pull/new/feat/cor-002-deposit-withdrawal) |
 | COR-003 | Activity Screen | in-progress | high | ai-agent | FE | [FE PR](https://github.com/Rayne182/finomi-app-ts/pull/new/feat/cor-003-activity-screen) | finomi-app-ts@b5495a8 | [COR-003](./DETAILS/COR-003.md) |
 | COR-004 | Notifications System | in-progress | high | ai-agent | FE/BE | [BE PR](https://github.com/Rayne182/Finomi.App.Api/pull/new/feat/cor-004-notifications-docs) | Finomi.App.Api@ae5edce | [COR-004](./DETAILS/COR-004.md) |
 | COR-005 | Settings and Preferences | ready | low | - | FE | - | - | [COR-005](./DETAILS/COR-005.md) |
