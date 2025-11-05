@@ -7,7 +7,7 @@ Automatically maintained reference for the Finomi program. Last updated: 2025-11
 | Phase | Total Tasks | Ready | Ready-To-Test | In Progress | Completed | Blocked | Notes |
 |---|---|---|---|---|---|---|---|
 | Phase 1 - Foundation | 12 | 0 | 6 | 0 | 0 | 0 | Environment, auth, and database enablement work to unblock the rest of the program. |
-| Phase 2 - Core | 9 | 2 | 3 | 4 | 0 | 0 | Core product experiences including transactions, notifications, and portfolio management. |
+| Phase 2 - Core | 9 | 0 | 6 | 3 | 0 | 0 | Core product experiences including transactions, notifications, and portfolio management. |
 | Phase 3 - Quality | 6 | 0 | 0 | 0 | 0 | 0 | Quality gates covering strict typing, automated tests, and CI/CD. |
 | Phase 4 - Enhanced | 5 | 0 | 0 | 0 | 0 | 0 | Value-add experiences such as analytics, document handling, and personalisation. |
 | Phase 5 - Launch | 5 | 0 | 0 | 0 | 0 | 0 | Launch readiness around compliance, infrastructure, and store submissions. |
@@ -44,6 +44,7 @@ Automatically maintained reference for the Finomi program. Last updated: 2025-11
 3. Link supporting detail - for deeper context, follow the detail page links under each task row.
 
 Keep the dashboard concise so it reflects the single source of truth without replacing the boards themselves.
+
 
 
 
