@@ -9,4 +9,4 @@
 | QLT-005 | Performance Optimisation | not-started | low | - | FE | - | - | [QLT-005](./DETAILS/QLT-005.md) |
 | QLT-006 | Accessibility Baseline | not-started | medium | - | FE | - | - | [QLT-006](./DETAILS/QLT-006.md) |
 
-_Status values: not-started, ready, in-progress, completed, blocked._
+_Status values: not-started, ready, in-progress, ready-to-test, completed, blocked._

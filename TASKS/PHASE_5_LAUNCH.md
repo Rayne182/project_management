@@ -8,4 +8,4 @@
 | LCH-004 | Data Governance and POPIA | not-started | high | - | FE/BE | - | - | [LCH-004](./DETAILS/LCH-004.md) |
 | LCH-005 | Store Submissions | not-started | low | - | FE | - | - | [LCH-005](./DETAILS/LCH-005.md) |
 
-_Status values: not-started, ready, in-progress, completed, blocked._
+_Status values: not-started, ready, in-progress, ready-to-test, completed, blocked._

@@ -8,4 +8,4 @@
 | ENH-004 | Biometric and Dark Mode Support | not-started | low | - | FE | - | - | [ENH-004](./DETAILS/ENH-004.md) |
 | ENH-005 | In-App Help and Tooltips | not-started | low | - | FE | - | - | [ENH-005](./DETAILS/ENH-005.md) |
 
-_Status values: not-started, ready, in-progress, completed, blocked._
+_Status values: not-started, ready, in-progress, ready-to-test, completed, blocked._

@@ -4,25 +4,18 @@ Automatically maintained reference for the Finomi program. Last updated: 2025-11
 
 ## Phase Health Snapshot
 
-| Phase | Total Tasks | Ready | In Progress | Completed | Blocked | Notes |
-|---|---|---|---|---|---|---|
-| Phase 1 - Foundation | 12 | 0 | 6 | 0 | 0 | Environment, auth, and database enablement work to unblock the rest of the program. |
-| Phase 2 - Core | 9 | 4 | 5 | 4 | 0 | 0 | Core product experiences including transactions, notifications, and portfolio management. |
-| Phase 3 - Quality | 6 | 0 | 0 | 0 | 0 | Quality gates covering strict typing, automated tests, and CI/CD. |
-| Phase 4 - Enhanced | 5 | 0 | 0 | 0 | 0 | Value-add experiences such as analytics, document handling, and personalisation. |
-| Phase 5 - Launch | 5 | 0 | 0 | 0 | 0 | Launch readiness around compliance, infrastructure, and store submissions. |
+| Phase | Total Tasks | Ready | Ready-To-Test | In Progress | Completed | Blocked | Notes |
+|---|---|---|---|---|---|---|---|
+| Phase 1 - Foundation | 12 | 0 | 5 | 1 | 0 | 0 | Environment, auth, and database enablement work to unblock the rest of the program. |
+| Phase 2 - Core | 9 | 5 | 0 | 4 | 0 | 0 | Core product experiences including transactions, notifications, and portfolio management. |
+| Phase 3 - Quality | 6 | 0 | 0 | 0 | 0 | 0 | Quality gates covering strict typing, automated tests, and CI/CD. |
+| Phase 4 - Enhanced | 5 | 0 | 0 | 0 | 0 | 0 | Value-add experiences such as analytics, document handling, and personalisation. |
+| Phase 5 - Launch | 5 | 0 | 0 | 0 | 0 | 0 | Launch readiness around compliance, infrastructure, and store submissions. |
 
 ## Ready and In-Progress Tasks
 
-- In-Progress: [FND-001](TASKS/DETAILS/FND-001.md) - Environment-Based API Configuration (FE)
-- In-Progress: [FND-002](TASKS/DETAILS/FND-002.md) - Authentication Token Integration (FE)
-- In-Progress: [FND-003](TASKS/DETAILS/FND-003.md) - Authentication Context Provider (FE)
-- In-Progress: [FND-004](TASKS/DETAILS/FND-004.md) - Remove Hard-Coded User Data (FE)
-- In-Progress: [FND-005](TASKS/DETAILS/FND-005.md) - Error Boundary (FE)
-- In-Progress: [FND-006](TASKS/DETAILS/FND-006.md) - Auth and Token Validation (BE)
-- In-Progress: [COR-001](TASKS/DETAILS/COR-001.md) - Transaction Endpoints (BE)
-- In-Progress: [COR-002](TASKS/DETAILS/COR-002.md) - Deposit and Withdrawal Flow (FE)
-- In-Progress: [COR-003](TASKS/DETAILS/COR-003.md) - Activity Screen (FE)
+- Ready-To-Test: [FND-001](TASKS/DETAILS/FND-001.md), [FND-002](TASKS/DETAILS/FND-002.md), [FND-003](TASKS/DETAILS/FND-003.md), [FND-005](TASKS/DETAILS/FND-005.md), [FND-006](TASKS/DETAILS/FND-006.md)
+- In-Progress: [FND-004](TASKS/DETAILS/FND-004.md), [COR-001](TASKS/DETAILS/COR-001.md), [COR-002](TASKS/DETAILS/COR-002.md), [COR-003](TASKS/DETAILS/COR-003.md)
 
 ## Backlog Depth
 

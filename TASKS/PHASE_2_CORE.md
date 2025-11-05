@@ -12,5 +12,5 @@
 | COR-008 | Risk Assessment Integration | ready | medium | - | FE/BE | - | - | [COR-008](./DETAILS/COR-008.md) |
 | COR-009 | Multi-Portfolio Support | ready | medium | - | FE/BE | - | - | [COR-009](./DETAILS/COR-009.md) |
 
-_Status values: not-started, ready, in-progress, completed, blocked._
+_Status values: not-started, ready, in-progress, ready-to-test, completed, blocked._
 
