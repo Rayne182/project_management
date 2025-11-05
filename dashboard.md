@@ -7,14 +7,14 @@ Automatically maintained reference for the Finomi program. Last updated: 2025-11
 | Phase | Total Tasks | Ready | Ready-To-Test | In Progress | Completed | Blocked | Notes |
 |---|---|---|---|---|---|---|---|
 | Phase 1 - Foundation | 12 | 0 | 6 | 0 | 0 | 0 | Environment, auth, and database enablement work to unblock the rest of the program. |
-| Phase 2 - Core | 9 | 5 | 0 | 4 | 0 | 0 | Core product experiences including transactions, notifications, and portfolio management. |
+| Phase 2 - Core | 9 | 4 | 1 | 4 | 0 | 0 | Core product experiences including transactions, notifications, and portfolio management. |
 | Phase 3 - Quality | 6 | 0 | 0 | 0 | 0 | 0 | Quality gates covering strict typing, automated tests, and CI/CD. |
 | Phase 4 - Enhanced | 5 | 0 | 0 | 0 | 0 | 0 | Value-add experiences such as analytics, document handling, and personalisation. |
 | Phase 5 - Launch | 5 | 0 | 0 | 0 | 0 | 0 | Launch readiness around compliance, infrastructure, and store submissions. |
 
 ## Ready and In-Progress Tasks
 
-- Ready-To-Test: [FND-001](TASKS/DETAILS/FND-001.md), [FND-002](TASKS/DETAILS/FND-002.md), [FND-003](TASKS/DETAILS/FND-003.md), [FND-005](TASKS/DETAILS/FND-005.md), [FND-006](TASKS/DETAILS/FND-006.md)
+- , [COR-004](TASKS/DETAILS/COR-004.md)
 - In-Progress: [FND-004](TASKS/DETAILS/FND-004.md), [COR-001](TASKS/DETAILS/COR-001.md), [COR-002](TASKS/DETAILS/COR-002.md), [COR-003](TASKS/DETAILS/COR-003.md)
 
 ## Backlog Depth
@@ -44,5 +44,6 @@ Automatically maintained reference for the Finomi program. Last updated: 2025-11
 3. Link supporting detail - for deeper context, follow the detail page links under each task row.
 
 Keep the dashboard concise so it reflects the single source of truth without replacing the boards themselves.
+
 
 
