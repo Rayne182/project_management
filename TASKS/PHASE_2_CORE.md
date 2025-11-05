@@ -2,7 +2,7 @@
 
 | TASK_ID | Title | Status | Priority | Assignee | Repo | PR | Commit | Detail |
 |---|---|---|---|---|---|---|---|---|
-| COR-001 | Implement Transaction Endpoints | ready | high | - | BE | - | - | [COR-001](./DETAILS/COR-001.md) |
+| COR-001 | Implement Transaction Endpoints | in-progress | high | ai-agent | BE | [BE PR](https://github.com/Rayne182/Finomi.App.Api/pull/new/feat/cor-001-transactions-docs) | Finomi.App.Api@8923fdc | [COR-001](./DETAILS/COR-001.md) |
 | COR-002 | Deposit and Withdrawal Flow | ready | high | - | FE | - | - | [COR-002](./DETAILS/COR-002.md) |
 | COR-003 | Activity Screen | ready | ready | - | FE | - | - | [COR-003](./DETAILS/COR-003.md) |
 | COR-004 | Notifications System | ready | ready | - | FE/BE | - | - | [COR-004](./DETAILS/COR-004.md) |
