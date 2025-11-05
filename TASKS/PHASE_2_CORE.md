@@ -5,7 +5,7 @@
 | COR-001 | Implement Transaction Endpoints | in-progress | high | ai-agent | BE | [BE PR](https://github.com/Rayne182/Finomi.App.Api/pull/new/feat/cor-001-transactions-impl) |
 | COR-002 | Deposit and Withdrawal Flow | in-progress | high | ai-agent | FE | [FE PR](https://github.com/Rayne182/finomi-app-ts/pull/new/feat/cor-002-deposit-withdrawal) |
 | COR-003 | Activity Screen | in-progress | high | ai-agent | FE | [FE PR](https://github.com/Rayne182/finomi-app-ts/pull/new/feat/cor-003-activity-screen) | finomi-app-ts@b5495a8 | [COR-003](./DETAILS/COR-003.md) |
-| COR-004 | Notifications System | in-progress | high | ai-agent | FE/BE | [BE PR](https://github.com/Rayne182/Finomi.App.Api/pull/new/feat/cor-004-notifications-docs) | Finomi.App.Api@ae5edce | [COR-004](./DETAILS/COR-004.md) |
+| COR-004 | Notifications System | ready-to-test | high | ai-agent | FE/BE | [BE PR](https://github.com/Rayne182/Finomi.App.Api/pull/new/feat/cor-004-notifications-impl), [FE PR](https://github.com/Rayne182/finomi-app-ts/pull/new/feat/cor-004-notifications-fe) | Finomi.App.Api@cfc47bb, finomi-app-ts@5a3b7fb | [COR-004](./DETAILS/COR-004.md) |
 | COR-005 | Settings and Preferences | ready | low | - | FE | - | - | [COR-005](./DETAILS/COR-005.md) |
 | COR-006 | State Management and Caching | ready | medium | - | FE | - | - | [COR-006](./DETAILS/COR-006.md) |
 | COR-007 | Portfolio Overview Real Data | ready | high | - | FE/BE | - | - | [COR-007](./DETAILS/COR-007.md) |
@@ -13,4 +13,5 @@
 | COR-009 | Multi-Portfolio Support | ready | medium | - | FE/BE | - | - | [COR-009](./DETAILS/COR-009.md) |
 
 _Status values: not-started, ready, in-progress, ready-to-test, completed, blocked._
+
 
