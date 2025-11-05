@@ -2,8 +2,8 @@
 
 | TASK_ID | Title | Status | Priority | Assignee | Repo | PR | Commit | Detail |
 |---|---|---|---|---|---|---|---|---|
-| FND-001 | Environment-Based API Configuration | in-progress | high | ai-agent | FE | - | finomi-app-ts@748eabc, project_management@6e49541 | [FND-001](./DETAILS/FND-001.md) |
-| FND-002 | Authentication Token Integration | in-progress | high | ai-agent | FE | - | finomi-app-ts@bf1c891 | [FND-002](./DETAILS/FND-002.md) |
+| FND-001 | Environment-Based API Configuration | in-progress | high | ai-agent | FE | [FE PR](https://github.com/Rayne182/finomi-app-ts/pull/new/feat/fnd-001-002-env-auth), [PM PR](https://github.com/Rayne182/project_management/pull/new/chore/fnd-001-002-board-dash) | finomi-app-ts@748eabc, project_management@6e49541 | [FND-001](./DETAILS/FND-001.md) |
+| FND-002 | Authentication Token Integration | in-progress | high | ai-agent | FE | [FE PR](https://github.com/Rayne182/finomi-app-ts/pull/new/feat/fnd-001-002-env-auth) | finomi-app-ts@bf1c891 | [FND-002](./DETAILS/FND-002.md) |
 | FND-003 | Authentication Context Provider | ready | high | - | FE | - | - | [FND-003](./DETAILS/FND-003.md) |
 | FND-004 | Remove Hard-Coded User Data | ready | medium | - | FE | - | - | [FND-004](./DETAILS/FND-004.md) |
 | FND-005 | Implement Error Boundary | ready | medium | - | FE | - | - | [FND-005](./DETAILS/FND-005.md) |
